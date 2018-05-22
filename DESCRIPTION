@@ -1,0 +1,18 @@
+Package: Icarus
+Type: Package
+Title: Spatial-Temporal analysis on PREDICTS data
+Version: 1.0
+Date: 2015-02-09
+Author: Martin Jung
+Maintainer: Martin Jung <martinjung@zoho.com>
+Description: A little package to deal various explatory analysis and formatting
+    work in relation to PREDICTS and RS
+License: MIT
+Suggests:
+    dplyr,
+    lubridate,
+    reshape2,
+    ggplot2,
+    RPostgreSQL,
+    MODISTools
+RoxygenNote: 5.0.1
