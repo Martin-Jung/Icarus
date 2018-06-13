@@ -1,4 +1,10 @@
 .Rproj.user
 .Rhistory
 .RData
+<<<<<<< HEAD
 *.Rproj
+Icarus.Rproj
+.Rbuildignore
+=======
+*.Rproj
+>>>>>>> 7b9ff6fdfc20537412e15b277e613e5402837e6a
